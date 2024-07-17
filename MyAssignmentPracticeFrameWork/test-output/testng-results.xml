@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-26T14:58:26 IST" name="Default suite" finished-at="2024-06-26T14:58:54 IST" duration-ms="28809">
+    <groups>
+    </groups>
+    <test started-at="2024-06-26T14:58:26 IST" name="Default test" finished-at="2024-06-26T14:58:54 IST" duration-ms="28809">
+      <class name="mypracticeassignments.tests.hardcoding">
+        <test-method is-config="true" signature="navigateTo()[pri:0, instance:mypracticeassignments.tests.hardcoding@740cae06]" started-at="2024-06-26T14:58:26 IST" name="navigateTo" finished-at="2024-06-26T14:58:41 IST" duration-ms="14891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTo -->
+        <test-method signature="submit()[pri:0, instance:mypracticeassignments.tests.hardcoding@740cae06]" started-at="2024-06-26T14:58:41 IST" name="submit" finished-at="2024-06-26T14:58:54 IST" duration-ms="13218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submit -->
+        <test-method is-config="true" signature="closedriver()[pri:0, instance:mypracticeassignments.tests.hardcoding@740cae06]" started-at="2024-06-26T14:58:54 IST" name="closedriver" finished-at="2024-06-26T14:58:54 IST" duration-ms="663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+      </class> <!-- mypracticeassignments.tests.hardcoding -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
